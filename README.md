@@ -1,5 +1,5 @@
 # fig-FORTH_68030-EMU
-fig-FORTH V1.1 for the EZ68030RAM
+fig-FORTH V1.1 for the MEZ68030RAM
 
 COLD Start 0x3684
 

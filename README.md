@@ -1,5 +1,5 @@
 # fig-FORTH_68030-EMU
-fig-FORTH V1.1 for the Motorola MC68030
+fig-FORTH V1.1 for the EZ68030RAM
 
 COLD Start 0x3684
 
